@@ -88,6 +88,8 @@ function userExperience(userHappy) {
   </a>
 </div>
 
+&nbsp;
+
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/l0HlvcRyVJeO8Gmju/giphy.gif"/>
 </p>
