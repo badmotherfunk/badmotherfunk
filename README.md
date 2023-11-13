@@ -48,7 +48,7 @@ function userExperience(userHappy) {
  ```
 &nbsp;
 
-## 🧰 Languages & tools 
+## </> My skills 
 
 <div>
   <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
