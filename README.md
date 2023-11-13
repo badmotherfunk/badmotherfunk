@@ -42,7 +42,7 @@ function userExperience(userHappy) {
   if(userHappy){
     return console.log("Job done! ✅");
   } else {
-    return console.log("Try again, do your best! 💪");
+    return console.log("Try again & do your best! 💪");
   }
 }
  ```
