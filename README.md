@@ -61,7 +61,7 @@ function userExperience(userHappy) {
   &nbsp;
   <img alt="react logo" width="50" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png">
   &nbsp;
-  <img alt="node.js logo" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+  <img alt="node.js logo" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
   &nbsp;
   <img alt="bootstrap logo" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
   <img alt="figma logo" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
