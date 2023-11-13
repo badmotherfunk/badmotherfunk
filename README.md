@@ -5,12 +5,9 @@ I like to do stuff with HTML, CSS, JavaScript & React.js! <br>
 I'm passionate about crafting beautiful & designed websites.
 
 
-  <img align="right" width="40%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampuaDNiaWx2ZGg4b3Z4NTkxeWMyNDN5emVzbWMwbHpudHQ0dGNwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoV4JZ3cBaSGngdxxl/giphy.gif"/>
-
-
-
-
-
+<div align="center">
+  <img align="center" width="40%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampuaDNiaWx2ZGg4b3Z4NTkxeWMyNDN5emVzbWMwbHpudHQ0dGNwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoV4JZ3cBaSGngdxxl/giphy.gif"/>
+</div>
 
 &nbsp;
 
