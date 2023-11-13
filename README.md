@@ -73,7 +73,7 @@ function userExperience(userHappy) {
 
 ## ℹ️ Useful links
 
-<p align="center">
+<div align="center">
   <br/>
   <a href="mailto:raphael.lasplace@gmail.com">
     <img alt="raphael.lasplace@gmail.com" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png"/>
@@ -86,7 +86,7 @@ function userExperience(userHappy) {
   <a href="https://www.linkedin.com/in/raphael-lasplace/">
     <img alt="Linkedin lasplace raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/l0HlvcRyVJeO8Gmju/giphy.gif"/>
