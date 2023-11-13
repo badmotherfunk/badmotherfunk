@@ -26,7 +26,7 @@ This enabled me to confirm my knowledge and develop my skills. In particular, I 
 const raphael = new Object();
 function diploma() {
   if(raphael.diplomes > 0){
-    return console.log("👨‍🎓 Intégrateur web - RNCP Niveau 5 (Bac+2)");
+    return console.log("Intégrateur web - RNCP Niveau 5 (Bac+2) is loading 🔋");
   }
 }
 ```
