@@ -9,11 +9,12 @@ I'm passionate about crafting beautiful & designed websites.
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampuaDNiaWx2ZGg4b3Z4NTkxeWMyNDN5emVzbWMwbHpudHQ0dGNwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoV4JZ3cBaSGngdxxl/giphy.gif"/>
 </p>
 
-### 😎 About me
+## 😎 About me
 
 I started learning web development on my own for eight months full-time. Then decided to take the **Openclassrooms** web developer training course for nine months to validate my skills and learn new things. Especially by creating projects that meet the needs of the current market.
 I usually work in vanilla javascript, but I'm always curious to learn new things that can improve my knowledge and possibilities in my working environment.
 
+&nbsp;
 
 <img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif"></img>
 
