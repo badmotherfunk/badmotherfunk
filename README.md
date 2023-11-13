@@ -62,7 +62,7 @@ function userExperience(userHappy) {
   &nbsp;
   <img alt="node.js logo" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
   &nbsp;
-  <img alt="figma logo" width="60" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png">
+  <img alt="figma logo" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
   
 </div>
 
