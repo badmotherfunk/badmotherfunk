@@ -18,7 +18,7 @@ I usually work in vanilla javascript, but I'm always curious to learn new things
 
 &nbsp;
 
-<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif"></img>
+<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 
 ### 🎓 Openclassrooms - 2023
 
@@ -53,19 +53,19 @@ function userExperience(userHappy) {
 ## 💾 My skills 
 
 <div>
-  <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+  <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
   &nbsp;
-  <img alt="css logo" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
+  <img alt="css logo" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
   &nbsp;
-  <img alt="sass logo" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+  <img alt="sass logo" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />
   &nbsp;
-  <img alt="javascript logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png">
+  <img alt="javascript logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
   &nbsp;
-  <img alt="react logo" width="50" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png">
+  <img alt="react logo" width="50" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
   &nbsp;
-  <img alt="node.js logo" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+  <img alt="node.js logo" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" />
   &nbsp;
-  <img alt="bootstrap logo" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
+  <img alt="bootstrap logo" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
   <img alt="figma logo" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
   
 </div>
@@ -76,7 +76,7 @@ function userExperience(userHappy) {
 
 <div align="center">
   <a href="mailto:raphael.lasplace@gmail.com">
-    <img alt="raphael.lasplace@gmail.com" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png">
+    <img alt="raphael.lasplace@gmail.com" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
   </a>
   &nbsp;
   <a href="https://raphael.lasplace.com">
@@ -84,7 +84,7 @@ function userExperience(userHappy) {
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/raphael-lasplace/">
-    <img alt="Linkedin lasplace raphael" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">
+    <img alt="Linkedin lasplace raphael" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
   </a>
 </div>
 
