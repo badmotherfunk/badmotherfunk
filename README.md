@@ -47,14 +47,14 @@ function userExperience(userHappy) {
 
 ## 🧰 Languages & tools
 
-<div >
-  <img alt="html logo" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
-  <img alt="css logo" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
-  <img alt="sass logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
-  <img alt="javascriptl logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png">
-  <img alt="react logo" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png">
-  <img alt="bootstrap logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
-  <img alt="node.js logo" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png">
+<div display=flex flex-direction=row>
+  <img alt="html logo" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="55%">
+  <img alt="css logo" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="55%">
+  <img alt="sass logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="55%">
+  <img alt="javascriptl logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="55%">
+  <img alt="react logo" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="55%">
+  <img alt="bootstrap logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="55%">
+  <img alt="node.js logo" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="55%">
 </div>
 
 ## ℹ️ Useful links
