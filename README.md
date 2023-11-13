@@ -47,14 +47,23 @@ function userExperience(userHappy) {
 
 ## 🧰 Languages & tools
 
-<div display="flex" flex-direction="row">
+<div display="flex" flex-direction="row" align-items="center">
   <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+  &nbsp;
   <img alt="css logo" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
+  &nbsp;
   <img alt="sass logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+  &nbsp;
   <img alt="javascript logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png">
-  <img alt="react logo" width="50" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="55%">
+  &nbsp;
+  <img alt="react logo" width="50" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png">
+  &nbsp;
   <img alt="bootstrap logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
+  &nbsp;
   <img alt="node.js logo" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+  &nbsp;
+  <img alt="figma logo" width="50" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png">
+  
 </div>
 
 ## ℹ️ Useful links
