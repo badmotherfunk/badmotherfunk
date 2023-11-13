@@ -1,6 +1,6 @@
 ### 👋 Hey! Welcome to my profile,
 I'm Raphaël, a thirty-one-year-old front-end web developer from France.
-I like to do stuff with HTML, CSS, JavaScript & React.js!
+I like to do stuff with HTML, CSS, JavaScript & React.js! <br>
 I'm passionate about crafting beautiful & designed websites.
 
 ### I live in the south of France near Montpellier.
