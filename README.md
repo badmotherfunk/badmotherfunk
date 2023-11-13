@@ -55,7 +55,7 @@ function userExperience(userHappy) {
   &nbsp;
   <img alt="css logo" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
   &nbsp;
-  <img alt="sass logo" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+  <img alt="sass logo" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
   &nbsp;
   <img alt="javascript logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png">
   &nbsp;
