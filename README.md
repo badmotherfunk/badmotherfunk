@@ -47,7 +47,7 @@ function userExperience(userHappy) {
 
 ## 🧰 Languages & tools
 
-<div display="flex" align-items="center">
+<div>
   <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
   &nbsp;
   <img alt="css logo" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
@@ -62,7 +62,7 @@ function userExperience(userHappy) {
   &nbsp;
   <img alt="node.js logo" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
   &nbsp;
-  <img alt="figma logo" width="70" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png">
+  <img alt="figma logo" width="60" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png">
   
 </div>
 
