@@ -1,5 +1,5 @@
-### 👋 Hey! Welcome to my profile,
-I'm Raphaël, a thirty-one-year-old front-end web developer from France.
+## 👋 Hey, welcome to my profile !
+I'm Raphaël, a thirty-one-year-old front-end web developer.
 I like to do stuff with HTML, CSS, JavaScript & React.js! <br>
 I'm passionate about crafting beautiful & designed websites.
 
