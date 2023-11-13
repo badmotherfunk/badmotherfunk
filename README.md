@@ -1,9 +1,9 @@
 ## 👋 Hey, welcome to my profile !
-I'm Raphaël, a thirty-one-year-old front-end web developer.
+I'm Raphaël, a thirty-one-year-old front-end web developer. <br>
 I like to do stuff with HTML, CSS, JavaScript & React.js! <br>
 I'm passionate about crafting beautiful & designed websites.
 
-#### I live in the south of France near Montpellier.
+I live in the south of France near Montpellier.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampuaDNiaWx2ZGg4b3Z4NTkxeWMyNDN5emVzbWMwbHpudHQ0dGNwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoV4JZ3cBaSGngdxxl/giphy.gif"/>
