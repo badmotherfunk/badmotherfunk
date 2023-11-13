@@ -44,6 +44,7 @@ function userExperience(userHappy) {
   }
 }
  ```
+&nbsp;
 
 ## 🧰 Languages & tools
 
@@ -65,6 +66,8 @@ function userExperience(userHappy) {
   <img alt="figma logo" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
   
 </div>
+
+&nbsp;
 
 ## ℹ️ Useful links
 
