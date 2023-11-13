@@ -80,7 +80,7 @@ function userExperience(userHappy) {
   </a>
   &nbsp;
   <a href="https://raphael.lasplace.com">
-    <img alt="Mon site web" width="45px" src="https://raphael.lasplace.com/Signature-logo.899dd097.webp">
+    <img alt="Mon site web" width="45px" src="https://raphael.lasplace.com/Signature-logo.899dd097.webp" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/raphael-lasplace/">
