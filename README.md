@@ -48,13 +48,13 @@ function userExperience(userHappy) {
 ## 🧰 Languages & tools
 
 <div display="flex" flex-direction="row">
-  <img alt="html logo" width="50%" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
-  <img alt="css logo" width="50%" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
-  <img alt="sass logo" width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
-  <img alt="javascript logo" width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png">
-  <img alt="react logo" width="50%" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="55%">
-  <img alt="bootstrap logo" width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
-  <img alt="node.js logo" width="50%" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+  <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+  <img alt="css logo" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
+  <img alt="sass logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+  <img alt="javascript logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png">
+  <img alt="react logo" width="50" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="55%">
+  <img alt="bootstrap logo" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
+  <img alt="node.js logo" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
 </div>
 
 ## ℹ️ Useful links
