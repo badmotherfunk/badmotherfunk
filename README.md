@@ -47,7 +47,7 @@ function userExperience(userHappy) {
 
 ## 🧰 Languages & tools
 
-<div display="flex" flex-direction="row" align-items="center">
+<div>
   <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
   &nbsp;
   <img alt="css logo" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
