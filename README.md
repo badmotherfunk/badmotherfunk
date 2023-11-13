@@ -1,4 +1,4 @@
-## 👋 Hey, welcome to my profile !
+## Hey, welcome to my profile ! 👋 
 I'm Raphaël, a thirty-one-year-old front-end web developer from France.
 I like to do stuff with HTML, CSS, JavaScript & React.js! <br>
 I'm passionate about crafting beautiful & designed websites.
@@ -9,7 +9,7 @@ I'm passionate about crafting beautiful & designed websites.
 
 &nbsp;
 
-## 😎 About me
+## About me 😎 
 
 I started learning web development on my own for eight months full-time. Then decided to take the **Openclassrooms** web developer training course for nine months to validate my skills and learn new things. Especially by creating projects that meet the needs of the current market.
 I usually work in vanilla javascript, but I'm always curious to learn new things that can improve my knowledge and possibilities in my working environment.
@@ -18,7 +18,7 @@ I usually work in vanilla javascript, but I'm always curious to learn new things
 
 <img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif"></img>
 
-### 🎓 Openclassrooms - 2023
+### Openclassrooms - 2023 🎓
 
 I completed the 9-month web integrator training course with Openclassrooms, which enabled me to carry out 12 projects in line with current business needs. <br>
 This enabled me to confirm my knowledge and develop my skills. In particular, I was able to work on new concepts, find solutions on my own, learn about frameworks, state management, and API requests.
@@ -32,7 +32,7 @@ function diploma() {
 ```
 &nbsp;
 
-## 👨‍💻 About my work
+## About my work 👨‍💻 
 
 I've always been attracted to designing websites and their interactions. That's why I pay particular attention to animations, performances, and design in my projects. <br>
 I like to create new experiences and ensure the perfect pixel layout to create the best possible user experience. <br>
@@ -48,7 +48,7 @@ function userExperience(userHappy) {
  ```
 &nbsp;
 
-## 🧰 Languages & tools
+## Languages & tools 🧰 
 
 <div>
   <img alt="html logo" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
@@ -70,7 +70,7 @@ function userExperience(userHappy) {
 
 &nbsp;
 
-## ℹ️ Useful links
+## Useful links ℹ️ 
 
 <div align="center">
   <br/>
