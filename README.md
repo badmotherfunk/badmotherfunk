@@ -74,15 +74,15 @@ function userExperience(userHappy) {
 
 <div align="center">
   <a href="mailto:raphael.lasplace@gmail.com">
-    <img alt="raphael.lasplace@gmail.com" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png"/>
+    <img alt="raphael.lasplace@gmail.com" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png"/>
   </a>
   &nbsp;
   <a href="https://raphael.lasplace.com">
-    <img alt="Mon site web" width="50px" src="https://raphael.lasplace.com/Signature-logo.899dd097.webp" />
+    <img alt="Mon site web" width="40px" src="https://raphael.lasplace.com/Signature-logo.899dd097.webp" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/raphael-lasplace/">
-    <img alt="Linkedin lasplace raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+    <img alt="Linkedin lasplace raphael" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
   </a>
 </div>
 
