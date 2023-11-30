@@ -75,7 +75,7 @@ function userExperience(userHappy) {
 ## ℹ️ Useful links
 
 <div align="center">
-  <a target="_blank" href="mailto:raphael.lasplace@gmail.com">
+  <a href="mailto:raphael.lasplace@gmail.com">
     <img alt="raphael.lasplace@gmail.com" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
   </a>
   &nbsp;
